@@ -41,6 +41,11 @@ aside {
   grid-row: 2;
 }
 
+strong {
+  font-weight: normal;
+  color: #66a9a3;
+}
+
 @media (max-width: 1000px) {
   body {
     grid: 100px 400px/1fr 200px 400px 1fr;
